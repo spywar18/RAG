@@ -23,7 +23,7 @@ with st.sidebar:
     - [OpenAI](https://platform.openai.com/docs/models) LLM model
     ''')
     add_vertical_space(5)
-    st.write('Made with ❤️ by [Shikhar] in 🇮🇳 (https://www.linkedin.com/in/shikharsingh0712/)')
+    st.write('Made with ❤️ by [Shikhar](https://www.linkedin.com/in/shikharsingh0712/)')
 
 load_dotenv()
 
